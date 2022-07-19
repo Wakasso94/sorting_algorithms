@@ -3,8 +3,6 @@
 | Description     | A collection of sorting algorithms implemented in C to see the advantages and disadvantages of each one of them      |
   ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
   
-| :--------: | -------- |
-|Author      | Wakasso     |
 
 | :-------------------------------------------------------------------------: |
 
@@ -51,3 +49,7 @@ Quick Sort is a recursive sorting algorithm that is more effective than other O(
 | Worst case performance   | O(n^2)  |
 | Best case performance  | O(n log n)  |
 | Average case performance  | O(n log n)  |
+
+
+| :--------: | Author  |
+| --------   | Wakasso |
